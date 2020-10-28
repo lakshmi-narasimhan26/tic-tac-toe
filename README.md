@@ -15,3 +15,5 @@ $ node start
 ```
 
 Checkout to http://localhost:3000/
+
+[Demo](https://lakshmi-narasimhan26.github.io/tic-tac-toe)

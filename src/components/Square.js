@@ -7,7 +7,10 @@ function Square({ value, onClick }) {
     border: '1px solid rgba(0, 0, 0, 0.8)',
     padding: '20px',
     fontSize: '30px',
-    textAlign: 'center',
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'center',
+    fontWeight: '900'
   };
 
   return (

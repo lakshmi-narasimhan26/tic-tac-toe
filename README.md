@@ -11,7 +11,7 @@ Install the dependencies and devDependencies and start the server.
 $ git clone https://github.com/lakshmi-narasimhan26/tic-tac-toe.git
 $ cd tic-tac-toe
 $ npm install 
-$ node start
+$ npm start
 ```
 
 Checkout to http://localhost:3000/

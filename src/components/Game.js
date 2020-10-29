@@ -13,7 +13,6 @@ function Game() {
     if (plot[i] || isGameDone) return;
 
     plot[i] = isX ? "X" : "O";
-    setPlot(plot);
     setIsX(!isX);
   }
 
